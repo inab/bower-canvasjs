@@ -14,5 +14,6 @@
     "graph",
     "plot"
   ],
+  "ignore": [],
   "license": "Dual Licensing Model, Free for Non-Commercial Use (Creative Commons Attribution-NonCommercial 3.0), Commercial License (http://canvasjs.com/license-canvasjs/)"
 }
